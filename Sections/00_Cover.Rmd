@@ -26,15 +26,13 @@ by
 
 \huge
 
-Here Goes Your Name
+Hannah James
 
 \Large
 
 \vspace{8mm}
 
-Undergraduate degree
-
-Master degree
+Bachelor's of Knowledge Integration
 
 \vspace{10mm}
 
@@ -42,7 +40,7 @@ A DISSERTATION SUBMITTED IN PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR THE DEGR
 
 \vspace{5mm}
 
-HERE GOES YOUR DEGREEE
+MASTER OF SCIENCE 
 
 \vspace{5mm}
 in
@@ -67,7 +65,7 @@ THE UNIVERSITY OF BRITISH COLUMBIA
 
 Month YYYY
 
-© Here Goes Your Name, YYYY
+© Hannah James, YYYY
 
 \end{center}
 \end{singlespace}
